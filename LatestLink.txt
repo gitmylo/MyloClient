@@ -1,1 +1,1 @@
-Temp
+https://github.com/gitmylo/MyloClient/raw/master/MyloClient.jar
